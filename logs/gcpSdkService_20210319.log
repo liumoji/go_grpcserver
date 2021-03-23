@@ -1,0 +1,298 @@
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T11:15:49+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T11:15:49+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T11:15:49+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T11:16:37+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T11:16:37+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T11:16:37+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T14:59:40+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T14:59:40+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T14:59:40+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:00:03+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:00:03+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:00:58+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:00:58+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:00:58+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:01:02+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:01:02+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:08:06+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:08:06+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:08:06+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:08:13+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:08:13+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:08:46+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:08:46+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:08:46+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:08:49+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:08:49+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:15:29+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:15:29+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:15:29+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:15:36+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:15:36+08:00"}
+{"level":"info","msg":"EchoStream err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:16:09+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:16:13+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:16:13+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:16:50+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:16:50+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:16:50+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:16:54+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:16:54+08:00"}
+{"level":"info","msg":"EchoStream err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:17:16+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:17:20+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:17:20+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:19:57+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:19:57+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:19:57+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:20:16+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:20:16+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:21:52+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:21:52+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:21:52+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:21:58+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:23:16+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:23:16+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:23:16+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:23:19+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:23:19+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:23:37+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:23:42+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:23:42+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 2 end","package":"grpc-SdkServer","time":"2021-03-19T15:25:31+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:31:31+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:31:31+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:31:31+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:31:33+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:31:33+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:36:04+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:36:04+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:36:04+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:36:18+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:36:18+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:36:41+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:37:07+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:37:39+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:37:39+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:37:39+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:37:45+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:38:04+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:38:04+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:38:34+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:39:52+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:39:52+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 2 end","package":"grpc-SdkServer","time":"2021-03-19T15:40:04+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:40:06+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:40:06+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 3 end","package":"grpc-SdkServer","time":"2021-03-19T15:40:14+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:40:29+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:40:29+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:40:49+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:40:49+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:40:49+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:40:54+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 1","package":"grpc-SdkServer","time":"2021-03-19T15:40:54+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:42:18+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:42:18+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:42:18+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:42:21+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T15:42:21+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:48:01+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:48:01+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:48:01+08:00"}
+{"level":"info","msg":"Receive client message: ID: 20 Message: stream request","package":"grpc-SdkServer","time":"2021-03-19T15:48:12+08:00"}
+{"level":"info","msg":"EchoStream err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:48:19+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:49:18+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:49:18+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:49:18+08:00"}
+{"level":"info","msg":"Receive client message: ID: 20 Message: stream request","package":"grpc-SdkServer","time":"2021-03-19T15:49:21+08:00"}
+{"level":"info","msg":"EchoStream err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:49:25+08:00"}
+{"level":"info","msg":"Receive client message: ID: 20 Message: stream request","package":"grpc-SdkServer","time":"2021-03-19T15:49:30+08:00"}
+{"level":"info","msg":"EchoStream err : rpc error: code = Canceled desc = context canceled , uuid: 2 end","package":"grpc-SdkServer","time":"2021-03-19T15:49:36+08:00"}
+{"level":"info","msg":"Receive client message: ID: 20 Message: stream request","package":"grpc-SdkServer","time":"2021-03-19T15:49:38+08:00"}
+{"level":"info","msg":"EchoStream err : rpc error: code = Canceled desc = context canceled , uuid: 3 end","package":"grpc-SdkServer","time":"2021-03-19T15:49:43+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:49:59+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:49:59+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:49:59+08:00"}
+{"level":"info","msg":"Receive client message: ID: 20 Message: stream request","package":"grpc-SdkServer","time":"2021-03-19T15:50:02+08:00"}
+{"level":"info","msg":"EchoStream err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:50:12+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T15:58:07+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:58:07+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T15:58:07+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:58:13+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T15:58:13+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T15:58:17+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T15:58:48+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T15:58:48+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 2 end","package":"grpc-SdkServer","time":"2021-03-19T15:59:48+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T16:00:42+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:00:42+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 3 end","package":"grpc-SdkServer","time":"2021-03-19T16:01:37+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T16:02:14+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:02:14+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 4 end","package":"grpc-SdkServer","time":"2021-03-19T16:03:08+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:04:26+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:04:26+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:04:26+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T16:04:30+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:05:06+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:06:26+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:06:26+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:06:26+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T16:06:33+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:06:42+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T16:06:49+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:06:54+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T16:06:54+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 2 end","package":"grpc-SdkServer","time":"2021-03-19T16:07:02+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:10:44+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:10:44+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:10:44+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T16:10:47+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:10:47+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T16:10:54+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:11:40+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:11:40+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:11:40+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T16:11:42+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:11:42+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T16:11:58+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:12:51+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:12:51+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:12:51+08:00"}
+{"level":"info","msg":"received client GegRequest token: qwertyuiop123 deviceId: zxcvbnm456","package":"grpc-SdkServer","time":"2021-03-19T16:12:54+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:12:54+08:00"}
+{"level":"info","msg":"Receive client message: data: fields:{key:\"nb\" value:{number_value:123}} fields:{key:\"pp\" value:{string_value:\"plmokiun\"}}","package":"grpc-SdkServer","time":"2021-03-19T16:12:54+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:28:22+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:28:22+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:28:22+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:28:31+08:00"}
+{"level":"info","msg":"Receive client message: data: fields:{key:\"nb\" value:{number_value:123}} fields:{key:\"pp\" value:{string_value:\"plmokiun\"}}","package":"grpc-SdkServer","time":"2021-03-19T16:28:31+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:36:10+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:36:10+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:36:10+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:36:14+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T16:36:14+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T16:36:37+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:36:40+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T16:36:40+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:36:55+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:36:55+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:36:55+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:37:04+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T16:37:12+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:48:03+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:48:03+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:48:03+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:48:26+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:48:26+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:48:26+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:48:40+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T16:48:40+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:52:40+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:52:40+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:52:40+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:52:54+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:52:54+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:52:54+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:52:59+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T16:52:59+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T16:54:17+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:55:09+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T16:55:09+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 2 end","package":"grpc-SdkServer","time":"2021-03-19T16:56:21+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:56:29+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T16:56:31+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T16:59:02+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:59:02+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T16:59:02+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T16:59:13+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T16:59:15+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T16:59:40+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T17:02:56+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T17:02:56+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T17:02:56+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T17:03:03+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T17:03:03+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T17:03:22+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T17:48:16+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T17:48:16+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T17:48:16+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T18:03:30+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:03:30+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:03:30+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T18:03:38+08:00"}
+{"level":"info","msg":"Receive client message: data: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T18:03:41+08:00"}
+{"level":"info","msg":"Receive client message: data: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T18:03:51+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T18:04:57+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:04:57+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:04:57+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T18:05:06+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T18:05:08+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T18:05:11+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T18:05:12+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T18:05:35+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:05:35+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:05:35+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T18:05:38+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T18:05:38+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T18:05:38+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T18:05:38+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T18:05:44+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T18:05:47+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T18:05:47+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T18:05:47+08:00"}
+{"level":"info","msg":"Receive client message: data: 123","package":"grpc-SdkServer","time":"2021-03-19T18:05:47+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 2 end","package":"grpc-SdkServer","time":"2021-03-19T18:05:53+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T18:16:07+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:16:07+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:16:07+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T18:29:13+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T18:39:43+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:39:43+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:39:43+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T18:40:02+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:40:02+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:40:02+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T18:40:07+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: 123","package":"grpc-SdkServer","time":"2021-03-19T18:40:07+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: 0","package":"grpc-SdkServer","time":"2021-03-19T18:40:07+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T18:41:16+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:41:16+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T18:41:16+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T18:41:34+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T18:41:34+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T18:41:34+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T19:38:41+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T19:38:41+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T19:38:41+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T19:38:56+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T19:38:56+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T19:38:56+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T19:40:43+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T19:40:43+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T19:40:43+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T19:40:46+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T19:40:46+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T19:40:46+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T19:41:12+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T19:41:38+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T19:41:38+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T19:41:38+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T19:41:40+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T19:41:40+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T19:41:40+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 1 end","package":"grpc-SdkServer","time":"2021-03-19T19:41:40+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T19:41:51+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T19:41:51+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T19:41:51+08:00"}
+{"level":"info","msg":"LongConnectionChannel err : rpc error: code = Canceled desc = context canceled , uuid: 2 end","package":"grpc-SdkServer","time":"2021-03-19T19:42:42+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-19T19:43:48+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T19:43:48+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-19T19:43:48+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T19:43:51+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T19:43:51+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T19:43:51+08:00"}
+{"level":"info","msg":"LongConnectionChannel io.EOF uuid: 1","package":"grpc-SdkServer","time":"2021-03-19T19:43:51+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-19T19:44:21+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-19T19:44:21+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-19T19:44:21+08:00"}
+{"level":"info","msg":"LongConnectionChannel io.EOF uuid: 2","package":"grpc-SdkServer","time":"2021-03-19T19:44:21+08:00"}

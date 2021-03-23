@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+option go_package = "./grpcgcpsdk";
+
+package grpcgcpsdk;
+
+import "google/protobuf/struct.proto";
+
+service SDKService {
+  rpc RegisterWithThePlatform(GegRequest) returns (GegResponse);
+  rpc LongConnectionChannel(stream ChaRequest) returns (stream ChaResponse);
+}
+
+message GegRequest {
+  string token = 1; //从uap导出的token信息
+  string deviceId = 2;
+};
+
+message GegResponse {
+  int32 code = 1; //对应 ResponseCode 枚举的值
+  string message = 2;
+};
+
+message ChaRequest {
+  int32 cmd = 1;  //对应 RequestCmd 枚举的值
+  string message_json = 2;  //可以为json格式的字符串
+  google.protobuf.Struct data = 3;
+};
+
+message ChaResponse {
+  int32 cmd = 1;  //对应 ResponseCmd 枚举的值
+  string message_json = 2;  //可以为json格式的字符串
+  google.protobuf.Struct data = 3;
+};
+
+enum RequestCmd {
+  REQUESTCMDSTART = 0;  //占位字段，有些语言对proto 数字0解析有差异，比如nodejs解析 0 为 undefined，因此有效数字从1开始
+  INITLINK = 1;  //初始化长连接通道，message_json字段格式{"deviceId": ""}
+}
+
+enum ResponseCmd {
+  RESPONSECMDSTART = 0; //占位字段，有些语言对proto 数字0解析有差异，比如nodejs解析 0 为 undefined，因此有效数字从1开始
+  SECURITYPOLICY = 1; //策略下发，接收到此cmd需要调用对应策略获取方法
+}
+
+enum ResponseCode {
+  RESPONSECODESTART = 0;  //占位字段，有些语言对proto 数字0解析有差异，比如nodejs解析 0 为 undefined，因此有效数字从1开始
+  SUCCESS = 1; //成功
+  SSLFAIL = 2; //SSL证书加载失败
+}
+

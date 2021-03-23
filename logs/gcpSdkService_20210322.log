@@ -1,0 +1,34 @@
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-22T16:31:32+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-22T16:31:32+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-22T16:31:32+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-22T19:36:20+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-22T19:36:20+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-22T19:36:20+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-22T19:41:32+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-22T19:41:32+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-22T19:41:32+08:00"}
+{"level":"info","msg":"LongConnectionChannel io.EOF uuid: 1","package":"grpc-SdkServer","time":"2021-03-22T19:43:10+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-22T19:58:46+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-22T19:58:46+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-22T19:58:46+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-22T19:58:51+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-22T19:58:51+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-22T19:58:51+08:00"}
+{"level":"info","msg":"LongConnectionChannel io.EOF uuid: 1","package":"grpc-SdkServer","time":"2021-03-22T19:59:32+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-22T20:00:33+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-22T20:00:33+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-22T20:00:33+08:00"}
+{"level":"info","msg":"LongConnectionChannel io.EOF uuid: 2","package":"grpc-SdkServer","time":"2021-03-22T20:00:36+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-22T20:00:53+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-22T20:01:50+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-22T20:01:50+08:00"}
+{"level":"info","msg":"LongConnectionChannel io.EOF uuid: 3","package":"grpc-SdkServer","time":"2021-03-22T20:01:50+08:00"}
+{"level":"info","msg":"sdk start","package":"main","time":"2021-03-22T20:03:29+08:00"}
+{"level":"info","msg":"SdkServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-22T20:03:29+08:00"}
+{"level":"info","msg":"ExampleServer grpcServer start","package":"grpc-SdkServer","time":"2021-03-22T20:03:29+08:00"}
+{"level":"info","msg":"Receive client message: cmd: 0","package":"grpc-SdkServer","time":"2021-03-22T20:03:33+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-22T20:08:33+08:00"}
+{"level":"info","msg":"Receive client message: data [nb]: \u0026{123}","package":"grpc-SdkServer","time":"2021-03-22T20:08:33+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-22T20:08:33+08:00"}
+{"level":"info","msg":"Receive client message: data [pp]: \u0026{plmokiun}","package":"grpc-SdkServer","time":"2021-03-22T20:08:33+08:00"}
+{"level":"info","msg":"LongConnectionChannel io.EOF uuid: 1","package":"grpc-SdkServer","time":"2021-03-22T20:08:33+08:00"}
